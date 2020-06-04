@@ -1,0 +1,3 @@
+%{
+  "rocksdb": {:git, "https://github.com/tsutsu/erlang-rocksdb.git", "488cc8f61dbe8de67bed9439b7bb14e2a5500fbe", [branch: "feature-support-erl23"]},
+}
